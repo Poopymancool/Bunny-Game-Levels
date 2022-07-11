@@ -1,0 +1,105 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+         
+.btn-grad {
+  background-image: linear-gradient(to right, #e52d27 0%, #b31217  51%, #e52d27  100%);
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow:0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+  width:50%;
+  font-family: cursive;
+  font-size: 22px;
+}
+
+.btn-grad:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+         
+.btn-grad2 {
+  background-image: linear-gradient(to right, #003973 0%, #E5E5BE  51%, #003973  100%);
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+  width:50%;
+  font-family: cursive;
+  font-size: 22px;
+}
+
+.btn-grad2:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+body{
+  background-size: cover; 
+}
+         
+.btn-grad3 {
+  background-image: linear-gradient(to right, #DA22FF 0%, #9733EE  51%, #DA22FF  100%);
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+  width:50%;
+  font-family: cursive;
+  font-size: 22px;
+}
+
+.btn-grad3:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+         
+.btn-grad4 {
+  background-image: linear-gradient(to right, #870000 0%, #190A05  51%, #870000  100%);
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+  width:50%;
+  font-family: cursive;
+  font-size: 22px;
+}
+
+.btn-grad4:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+
+
+
+
+

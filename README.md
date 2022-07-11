@@ -1,2 +1,2 @@
-# Bunny-Game-Levels
-All bunny fruit game levels
+# PRO-C25-SA
+boilerplate code for student activituy
